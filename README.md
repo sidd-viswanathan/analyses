@@ -10,6 +10,8 @@ Presents a matching-based methodology for estimating causal effects on generatin
 
 ## sparse_covariance_estimation.pdf
 
-Uses a financial dataset of 504 measurements of daily adjusted closing prices of 1547 medium-sized companies to explore, implement, and compare four methods for large covariance matrix estimation. The results do not indicate any clearly optimal method but provide insight into the immense difficulty of optimal high-dimensional covariance estimation.
+Analyzes a financial dataset of 504 measurements of daily adjusted closing prices of 1547 medium-sized companies to explore, implement, and compare four methods for large covariance matrix estimation. The results do not indicate any clearly optimal method but provide insight into the immense difficulty of optimal high-dimensional covariance estimation.
 
-## Exploratory analyses
+## high_dimensional_classification.pdf
+
+Analyzes a dataset of 373 labeled executables each with 531 described attributes to study the performance of four types of malicious executable classifiers. Finds the support vector machine the most successful algorithm for generalizing to new data.
