@@ -8,6 +8,8 @@ Implements the algorithm for variance reduction in bipartite experiments present
 
 Presents a matching-based methodology for estimating causal effects on generating mechanisms of entire network structures. The method is suitable for studies assessing the impact of interventions on interactions within a networks. The method is illustrated on data from a natural experiment in Michigan to estimate the effect of non-compete laws on inventor collaborations. 
 
-## Time series analyses
+## sparse_covariance_estimation.pdf
+
+Uses a financial dataset of 504 measurements of daily adjusted closing prices of 1547 medium-sized companies to explore, implement, and compare four methods for large covariance matrix estimation. The results do not indicate any clearly optimal method but provide insight into the immense difficulty of optimal high-dimensional covariance estimation.
 
 ## Exploratory analyses
