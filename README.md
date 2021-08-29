@@ -8,7 +8,7 @@ Analyzes a financial dataset of 504 measurements of daily adjusted closing price
 
 ## network_centrality_forecasting
 
-This project studies the relationship of network centrality measures and vector time series analysis using a historical network of diplomatic representation observed every few years from the years 1817-2005. Given any dynamic network it should at each timepoint be possible to perform vector time series analysis by reducing the network structure to the network centrality measure over each node. Provides cointegration analysis of the dynamic centrality-based time series and residual analysis of the fitted model.
+Studies the relationship of network centrality measures and vector time series analysis using a historical network of diplomatic representation observed every few years from the years 1817-2005. Given any dynamic network it should at each timepoint be possible to perform vector time series analysis by reducing the network structure to the network centrality measure over each node. Provides cointegration analysis of the dynamic centrality-based time series and residual analysis of the fitted model.
 
 
 ## undergraduate_honors_thesis
