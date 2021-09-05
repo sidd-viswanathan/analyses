@@ -1,4 +1,4 @@
-# statistical-analyses
+# Statistical Analyses
 
 ## Sparse covariance estimation of stock portfolio
 
