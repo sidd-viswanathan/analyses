@@ -12,7 +12,7 @@ file: network_centrality_forecasting.pdf
 
 Studies the relationship of network centrality measures and vector time series analysis using a historical network of diplomatic representation observed every few years from the years 1817-2005. Given any dynamic network it should at each timepoint be possible to perform vector time series analysis by reducing the network structure to the network centrality measure over each node. Provides cointegration analysis of the dynamic centrality-based time series and residual analysis of the fitted model.
 
-## Differences-in-differences methodology for network causal effects
+## Differences-in-differences methodology for sparse network causal effects
 
 file: differences-in-differences_methodology.pdf
 
