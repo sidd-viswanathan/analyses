@@ -12,11 +12,11 @@ file: network_centrality_forecasting.pdf
 
 Studies the relationship of network centrality measures and vector time series analysis using a historical network of diplomatic representation observed every few years from the years 1817-2005. Given any dynamic network it should at each timepoint be possible to perform vector time series analysis by reducing the network structure to the network centrality measure over each node. Provides cointegration analysis of the dynamic centrality-based time series and residual analysis of the fitted model.
 
-## Network methodology for causal effects
+## Differences-in-differences methodology for network causal effects
 
-file: network_methodology_for_causal_effects.pdf
+file: differences-in-differences_methodology.pdf
 
-Presents a methodology for estimating causal effects on generating mechanisms of network structures. The method is suitable for studies assessing the impact of interventions on interactions generating a network. The full data contains over eight million inventor-patents and career histories for 540,780 inventors. The method for causal effects is illustrated on data from a natural experiment in Michigan to estimate the effect of non-compete laws on inventor collaboration. There are however many difficulties and points requiring further clarification with the estimation procedure and methodological contributions. 
+Presents a differences-in-differences methodology for estimating causal effects on generating mechanisms of network structures. The method is suitable for studies assessing the impact of interventions on interactions generating a network. The full data contains over eight million inventor-patents and career histories for 540,780 inventors. The method for causal effects is illustrated on data from a natural experiment in Michigan to estimate the effect of non-compete laws on inventor collaboration. There are however many difficulties and points requiring further clarification with the estimation procedure and methodological contributions. 
 
 ## High-dimensional classification for malware detection
 
