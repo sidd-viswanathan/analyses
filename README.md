@@ -18,12 +18,6 @@ file: high_dimensional_classification.pdf
 
 Analyzes a dataset of 373 labeled file executables each with 531 described attributes to study the performance of four types of malicious executable classifiers. Finds the support vector machine the most successful algorithm for generalizing to new data.
 
-## Differences-in-differences methodology for sparse network causal effects
-
-file: differences-in-differences_methodology.pdf
-
-Presents a differences-in-differences methodology for estimating causal effects on generating mechanisms of network structures. The method is suitable for studies assessing the impact of interventions on interactions generating a network. The full data contains over eight million inventor-patents and career histories for 540,780 inventors. The method for causal effects is illustrated on data from a natural experiment in Michigan to estimate the effect of non-compete laws on inventor collaboration. There are however many difficulties and points requiring further clarification with the estimation procedure and methodological contributions.
-
 ## Intervention model for market crash on stock price
 
 file: analysis_of_crash_on_stock_price.pdf
