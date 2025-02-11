@@ -29,3 +29,31 @@ Uses 191 data points of closing stock market price from February 2002 to Decembe
 file: network_centrality_forecasting.pdf
 
 Studies the relationship of network centrality measures and vector time series analysis using a historical network of diplomatic representation observed every few years from the years 1817-2005. Given any dynamic network it should at each timepoint be possible to perform vector time series analysis by reducing the network structure to the network centrality measure over each node. Provides cointegration analysis of the dynamic centrality-based time series and residual analysis of the fitted model.
+
+
+# Statistics Research Vignettes
+
+## Propensity and Specification
+
+file: propensity_and_specification.pdf
+
+Develops and interprets a formula for the propensity score that clarifies the role of the propensity score for population specification in observational studies. 
+
+## Interpretation of Asymptotic Rerandomization
+
+file: asymptotic_rerandomization.pdf
+
+Interpretation and literature review of a non-Gaussian asymptotic distribution in the theory of rerandomization.
+
+## Characterizing Statistical Physics
+
+file: statistical_physics.pdf
+
+Develops ideas at the intersection of statistical causal inference and statistical physics.
+
+## Nonrandomized Network Causality
+
+file: nonrandomized_network_causality.pdf
+
+An organization of the recent statistics literature combining network theory and observational studies.
+
