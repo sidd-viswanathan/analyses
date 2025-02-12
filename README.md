@@ -18,7 +18,7 @@ Implements the algorithm for variance reduction in bipartite experiments present
 
 file: high_dimensional_classification.pdf
 
-Analyzes a dataset of 373 labeled file executables each with 531 described attributes to study the performance of four types of malicious executable classifiers. Finds the support vector machine the most successful algorithm for generalizing to new data.
+Analyzes a dataset of 373 labeled file executables each with 531 described attributes to study the performance of four types of malicious executable classifiers. Finds the support vector machine as the most successful algorithm for generalizing to new data.
 
 ## Intervention model for market crash on stock price
 
