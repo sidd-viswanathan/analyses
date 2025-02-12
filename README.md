@@ -1,4 +1,6 @@
-# Statistical Analyses
+Descriptions for the five Data Analyses and four Statistics Research Vignettes.
+
+# Data Analyses
 
 ## Sparse covariance estimation for financial time series
 
