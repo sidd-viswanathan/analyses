@@ -47,11 +47,11 @@ file: asymptotic_rerandomization.pdf
 
 Interpretation and literature review of a non-Gaussian asymptotic distribution in the theory of rerandomization.
 
-## Characterizing Statistical Physics
+## Statistical Causal Inference and Statistical Physics 
 
 file: statistical_physics.pdf
 
-Develops ideas at the intersection of statistical causal inference and statistical physics.
+Brings together key quotes at the intersection of statistical causal inference and statistical physics.
 
 ## Nonrandomized Network Causality
 
